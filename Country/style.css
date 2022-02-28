@@ -1,0 +1,16 @@
+.divcount{
+    border: 3px solid green;
+    background-color:beige;
+    margin: 10px;
+    padding: 10px;
+    color: blueviolet;
+    text-align: center;
+
+
+
+}
+
+#country{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) ;
+}
